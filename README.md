@@ -135,16 +135,13 @@ Secure internal platform for workplace engagement — JWT authentication with bc
 
 ### 🎓 Education
 
-**Jaypee Institute of Information Technology** — B.Tech, Computer Science Engineering (2022 – 2026), CGPA: 7.5
+**Jaypee Institute of Information Technology** — B.Tech, Computer Science Engineering (2022 – 2026)
 
 <br/>
 
 ### 📊 GitHub Stats
 
-<a href='https://github.com/Astrolyte/github-stats-transparent'>
-
-![Stats Overview](https://raw.githubusercontent.com/Astrolyte/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Astrolyte/github-stats-transparent/output/generated/languages.svg)
+[![Aditya's GitHub stats](https://github-stats-extended.vercel.app/api?username=Astrolyte)](https://github.com/stats-organization/github-stats-extended)
 
 </a>
 
