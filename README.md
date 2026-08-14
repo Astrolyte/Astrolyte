@@ -99,7 +99,7 @@ Secure internal platform for workplace engagement — JWT authentication with bc
 
 - 🟠 **LeetCode** — 1721 Rating · 700+ Problems Solved
 - 🔵 **Codeforces** — Pupil · 1259 Max Rating · 300+ Problems Solved
-- ⭐ **CodeChef** — 3-Star Rated · Rank 300 in Starters 174 & 167 · Multiple Top 500 Global Ranks
+- ⭐ **CodeChef** — 3-Star Rated
 - 🟢 **Coding Ninjas** — 300+ Problems Solved
 - 📈 100+ Contests and 1000+ Problems solved across all platforms
 
