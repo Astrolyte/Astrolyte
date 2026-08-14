@@ -32,6 +32,7 @@ I build scalable software and AI-powered applications — spanning full-stack de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
 </p>
 
 <h4 align="left">🤖 GenAI / AI-ML</h4>
@@ -133,11 +134,13 @@ Secure internal platform for workplace engagement — JWT authentication with bc
 <br/>
 
 ### 🎓 Education
+
 **Jaypee Institute of Information Technology** — B.Tech, Computer Science Engineering (2022 – 2026), CGPA: 7.5
 
 <br/>
 
 ### 📊 GitHub Stats
+
 <a href='https://github.com/Astrolyte/github-stats-transparent'>
 
 ![Stats Overview](https://raw.githubusercontent.com/Astrolyte/github-stats-transparent/output/generated/overview.svg)
