@@ -140,7 +140,7 @@ Secure internal platform for workplace engagement — JWT authentication with bc
 <br/>
 
 ### 📊 GitHub Stats
-[![github stats]](https://github-stats-extended.vercel.app/api?username=Astrolyte&include_all_commits=true&theme=kacho_ga)
+[![github stats](https://github-stats-extended.vercel.app/api?username=Astrolyte&include_all_commits=true&theme=kacho_ga)
 <br />
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Astrolyte&langs_count=4&theme=transparent)
 
